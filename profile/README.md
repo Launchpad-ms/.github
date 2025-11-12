@@ -85,6 +85,6 @@ For security vulnerabilities, please email **security\@launchpad.ms** instead of
 
 ## 📊 Project Status
 
-![GitHub stars](https://img.shields.io/github/stars/your-org/launchpad?style=social) ![GitHub forks](https://img.shields.io/github/forks/your-org/launchpad?style=social) ![GitHub issues](https://img.shields.io/github/issues/your-org/launchpad) ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-org/launchpad)
+![GitHub stars](https://img.shields.io/github/stars/Launchpad-ms?style=social) ![GitHub forks](https://img.shields.io/github/forks/Launchpad-ms/.github?style=social) ![GitHub issues](https://img.shields.io/github/issues/your-org/launchpad) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Launchpad-ms)
 
 **Ready to launch?** Visit [launchpad.ms](https://launchpad.ms/) to discover amazing products or submit your own! 🚀
